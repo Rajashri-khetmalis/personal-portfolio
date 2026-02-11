@@ -127,10 +127,6 @@ Builds a strong personal brand online
 
 # Preview
 
-
-
-
-
  Portfolio Website: (Add your live URL here if deployed)
 Future Enhancements
 
